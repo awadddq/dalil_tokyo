@@ -1,1 +1,1 @@
-# dalil_tokyo
+# DalilTokyo app for Android & ios
